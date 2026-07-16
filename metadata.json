@@ -1,0 +1,6 @@
+{
+  "name": "LinguaX",
+  "description": "A premium, offline-first language translation toolkit with text, scan (OCR), and voice translation support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
